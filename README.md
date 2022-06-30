@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/Github da DIO
- Repositório criado
+ Repositório criado para o Desafio de Projeto
  
- ##Links Úteis
+ ## Links Úteis
  [Sintaxe Básica Markdow] (https://www.markdownguide.org/)
